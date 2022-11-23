@@ -1,0 +1,26 @@
+
+.login{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://wallpaperaccess.com/download/clinic-doctor-5301521");
+  background-position: 100;
+  
+}
+
+.card{
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.background{
+  background-image:url(/images/background-clinicapet.jpg);
+  position:absolute;
+  width: 100%;
+  height: 100%;
+
+}
+
+
